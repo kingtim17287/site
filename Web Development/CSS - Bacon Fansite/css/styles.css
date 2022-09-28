@@ -1,0 +1,41 @@
+/*Tag selectors*/
+
+body{
+    background-color: orange;
+}
+
+h1{
+    color: red;
+    font-size: 200px;
+}
+
+img:hover{
+    background-color: gold;
+}
+
+
+/*
+list attributes in alphabetical order if more than 5*/
+/*id is for a singular item. class is for multiple items that you want grouped. its name vs passport. passport only 1 person, name can be for multiple people.*/
+
+/*Class selectors*/
+.bacon{
+    background-color: green;
+}
+
+.broccoli{
+    background-color: red;
+}
+
+.circular{
+    border-radius: 100%;
+}
+
+/*ID selectors*/
+
+#heading{
+    color: red;
+}
+
+
+
